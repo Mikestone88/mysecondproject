@@ -1,1 +1,2 @@
 GoNinja
+typing a new line
